@@ -1,4 +1,4 @@
-# Simplilearn-Healthcare-capstone
+# Healthcare-capstone
  
 ## DESCRIPTION
 
